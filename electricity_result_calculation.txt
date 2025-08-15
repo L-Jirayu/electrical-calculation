@@ -1,0 +1,11 @@
+--- Electricity Calculation Result ---
+Voltage (V): 220
+Current (A): 15
+Power Factor (PF): 0.9
+Hours used: 6
+
+Active Power (P): 2.97 kW
+Reactive Power (Q): 1.44 kVAR
+Apparent Power (S): 3.30 kVA
+Energy used: 17.82 kWh
+Electricity Cost: 66.83 Baht
